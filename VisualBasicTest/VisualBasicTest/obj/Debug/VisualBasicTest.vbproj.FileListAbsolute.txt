@@ -1,0 +1,11 @@
+C:\Users\xd\source\repos\VisualBasicTest\VisualBasicTest\obj\Debug\VisualBasicTest.vbprojAssemblyReference.cache
+C:\Users\xd\source\repos\VisualBasicTest\VisualBasicTest\obj\Debug\VisualBasicTest.Resources.resources
+C:\Users\xd\source\repos\VisualBasicTest\VisualBasicTest\obj\Debug\VisualBasicTest.vbproj.GenerateResource.cache
+C:\Users\xd\source\repos\VisualBasicTest\VisualBasicTest\obj\Debug\VisualBasicTest.vbproj.CoreCompileInputs.cache
+C:\Users\xd\source\repos\VisualBasicTest\VisualBasicTest\bin\Debug\VisualBasicTest.exe.config
+C:\Users\xd\source\repos\VisualBasicTest\VisualBasicTest\bin\Debug\VisualBasicTest.exe
+C:\Users\xd\source\repos\VisualBasicTest\VisualBasicTest\bin\Debug\VisualBasicTest.pdb
+C:\Users\xd\source\repos\VisualBasicTest\VisualBasicTest\bin\Debug\VisualBasicTest.xml
+C:\Users\xd\source\repos\VisualBasicTest\VisualBasicTest\obj\Debug\VisualBasicTest.exe
+C:\Users\xd\source\repos\VisualBasicTest\VisualBasicTest\obj\Debug\VisualBasicTest.xml
+C:\Users\xd\source\repos\VisualBasicTest\VisualBasicTest\obj\Debug\VisualBasicTest.pdb
